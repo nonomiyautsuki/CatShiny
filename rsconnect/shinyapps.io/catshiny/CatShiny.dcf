@@ -1,0 +1,10 @@
+name: CatShiny
+title: CatShiny
+account: catshiny
+server: shinyapps.io
+appId: 205839
+bundleId: 992471
+url: https://catshiny.shinyapps.io/CatShiny/
+when: 1506077396.45059
+asMultiple: FALSE
+asStatic: FALSE
